@@ -215,6 +215,9 @@ body{
     .content .data > div{
         padding: 5px !important;
     }
+    .content .data .course{
+        padding: 0px !important;
+    }
 }
 .content .data h2{
     margin: 0;
